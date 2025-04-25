@@ -1,2 +1,1 @@
-# shopping-list
-Project for class
+Shopping list created for UI/UX class using TS and Preact.
